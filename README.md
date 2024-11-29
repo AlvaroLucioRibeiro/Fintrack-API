@@ -2,6 +2,7 @@
 
 ![Build Status](https://github.com/FranciscoPGuimaraes/Fintrack-API/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/language-Python-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)
 
 ## Overview
 
